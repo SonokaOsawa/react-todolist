@@ -1,4 +1,4 @@
-import {combineReducers} from 'redux';
-import todolist from './todoList'
+import { combineReducers } from 'redux';
+import { todolist } from './todoList'
 
-export default combineReducers({todolist})
+export default combineReducers({ todolist })
